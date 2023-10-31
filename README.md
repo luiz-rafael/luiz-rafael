@@ -1,12 +1,15 @@
 ### Hi there, I'm Luiz Rafael! 👋
 
-I'm a recent data science graduate passionate about exploring the world of data and deep learning. I'm actively seeking opportunities and collaborations on projects related to data science and deep learning.
+I am a Data Analyst and Developer with experience in Big Data, Business Intelligence, and Data Analytics. In addition to my professional experience and freelance projects, I am an enthusiastic student of Machine Learning, Data Science, and System Development. My strong foundation in database management, especially at an advanced level, complements my passion for exploring new horizons in the field of artificial intelligence and software solutions development. My skills include data collection, storage, and processing from open sources, creating graphical dashboards, and statistical reports, automating data extraction processes, integrating with APIs, and Python-based ETL development. I am an expert in business intelligence tools, database modeling, statistics, data visualization, and much more. With my commitment to continuous learning, I am prepared to contribute to driving strategic decisions and innovation in any organization.
 
 🔭 **Currently Working On**: Data analysis and continuously honing my skills in data structures and algorithms.
 
-🌱 **Currently Learning**: Python for data science and machine learning.
+🌱 **Currently Learning**: 
+* Python for data science and machine learning.
+* Go System Developer
+* AWS System Cloud
 
-🤝 **Looking to Collaborate On**: Data science and deep learning projects.
+🤝 **Looking to Collaborate On**: Data science, deep learning, Developer Database projects.
 
 ### Connect with Me
 
