@@ -29,10 +29,13 @@ I am a Data Analyst and Developer with experience in Big Data, Business Intellig
 
 #### Programming Languages
 ![](https://img.shields.io/badge/Python-brightgreen)
+![](https://img.shields.io/badge/JavaScript-brightgreen)
 ![](https://img.shields.io/badge/SQL-brightgreen)
 ![](https://img.shields.io/badge/PLSQL-brightgreen)
 
 #### Tools
+![](https://img.shields.io/badge/Airbyte%20Studio-yellow)
+![](https://img.shields.io/badge/Airflow%20Studio-yellow)
 ![](https://img.shields.io/badge/Power%20BI-yellow)
 ![](https://img.shields.io/badge/Looker%20Studio-yellow)
 ![](https://img.shields.io/badge/Excel-yellow)
@@ -43,6 +46,7 @@ I am a Data Analyst and Developer with experience in Big Data, Business Intellig
 ![](https://img.shields.io/badge/PostgreSQL-red)
 ![](https://img.shields.io/badge/SQL%20Server-red)
 ![](https://img.shields.io/badge/MongoDB-red)
+![](https://img.shields.io/badge/Google%20Firestone-red)
 
 ### More Skills
 
