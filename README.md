@@ -35,7 +35,7 @@ I am a Data Analyst and Developer with experience in Big Data, Business Intellig
 
 #### Tools
 ![](https://img.shields.io/badge/Airbyte%20Studio-yellow)
-![](https://img.shields.io/badge/Airflow%20Studio-yellow)
+![](https://img.shields.io/badge/Airflow-yellow)
 ![](https://img.shields.io/badge/Power%20BI-yellow)
 ![](https://img.shields.io/badge/Looker%20Studio-yellow)
 ![](https://img.shields.io/badge/Excel-yellow)
