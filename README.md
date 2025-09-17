@@ -1,6 +1,10 @@
 ### Hi there, I'm Luiz Rafael! 👋
 
-I am a Data Analyst and Developer with experience in Big Data, Business Intelligence, and Data Analytics. In addition to my professional experience and freelance projects, I am an enthusiastic student of Machine Learning, Data Science, and System Development. My strong foundation in database management, especially at an advanced level, complements my passion for exploring new horizons in the field of artificial intelligence and software solutions development. My skills include data collection, storage, and processing from open sources, creating graphical dashboards, and statistical reports, automating data extraction processes, integrating with APIs, and Python-based ETL development. I am an expert in business intelligence tools, database modeling, statistics, data visualization, and much more. With my commitment to continuous learning, I am prepared to contribute to driving strategic decisions and innovation in any organization.
+I am a Data Engineer with experience in Big Data, Business Intelligence, and Data Analytics. In addition to my professional experience and freelance projects, I am an enthusiastic student of Machine Learning, Data Science, and System Development. My strong foundation in database management, especially at an advanced level, complements my passion for exploring new horizons in the field of artificial intelligence and software solutions development.
+
+My skills include building and maintaining ETL pipelines, integrating with APIs, designing data models, and developing scalable solutions for data collection, storage, and processing. I have expertise in creating dashboards, statistical reports, and automated workflows, ensuring that data is transformed into actionable insights. I am also proficient in business intelligence tools, data visualization, and performance optimization.
+
+With my commitment to continuous learning, I am prepared to contribute to driving strategic decisions, enhancing data-driven culture, and fostering innovation in any organization.
 
 🔭 **Currently Working On**: Data analysis and continuously honing my skills in data structures and algorithms.
 
